@@ -1,6 +1,6 @@
 # Lab-Cola (Recipe Reconstruction)
 
-This repository is a *documentation-first* GitHub project that captures a well-known community recipe for a Coca-Cola–style cola (“Lab-Cola”) as presented by YouTuber **LabCoatz** in the video *Perfectly Replicating Coca Cola (It Took Me A Year)*.
+This repository is a *documentation-first* GitHub project that captures a well-known community recipe for a Coca-Cola–style cola (“Lab-Cola”) as presented by YouTuber **LabCoatz** in the video.
 
 **What this is:** a structured write-up of an unofficial reconstruction recipe and its rationale.  
 **What this is not:** Coca-Cola’s proprietary formula, medical advice, or a guarantee of safety or legal compliance.
@@ -9,7 +9,7 @@ This repository is a *documentation-first* GitHub project that captures a well-k
 
 ## Quick start (1 liter)
 
-See: [`recipe/one_liter_batch.md`](recipe/one_liter_batch.md)
+See: [`one_liter_batch.md`](./one_liter_batch.md)
 
 ---
 
@@ -31,9 +31,9 @@ See: [`recipe/one_liter_batch.md`](recipe/one_liter_batch.md)
 
 ## Safety & responsibility (read this)
 
-This recipe uses **concentrated phosphoric acid** and **food/chemical flavor materials**. If you cannot confidently handle acids, measure accurately, and verify food-grade sourcing, **do not attempt this**.
+This recipe uses **concentrated phosphoric acid** and **food/chemical flavor materials**. If you cannot confidently handle acids, measure accurately, and verify food-grade sourcing, **do not attempt this project**.
 
-See: [`docs/safety.md`](docs/safety.md) and [`DISCLAIMER.md`](DISCLAIMER.md).
+See: [`safety.md`](./safety.md) and [`DISCLAIMER.md`](./DISCLAIMER.md).
 
 ---
 
@@ -41,4 +41,3 @@ See: [`docs/safety.md`](docs/safety.md) and [`DISCLAIMER.md`](DISCLAIMER.md).
 
 The repository text and structure are provided under **CC BY 4.0** (see `LICENSE`).  
 This does **not** grant any rights to Coca-Cola trademarks or proprietary formulations, nor does it claim affiliation with any brand.
-
