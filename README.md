@@ -9,7 +9,7 @@ This repository is a *documentation-first* GitHub project that captures a well-k
 
 ## Quick start (1 liter)
 
-See: [`one_liter_batch.md`](./one_liter_batch.md)
+See: [`recipe/one_liter_batch.md`](./recipe/one_liter_batch.md)
 
 ---
 
@@ -33,7 +33,7 @@ See: [`one_liter_batch.md`](./one_liter_batch.md)
 
 This recipe uses **concentrated phosphoric acid** and **food/chemical flavor materials**. If you cannot confidently handle acids, measure accurately, and verify food-grade sourcing, **do not attempt this project**.
 
-See: [`safety.md`](./safety.md) and [`DISCLAIMER.md`](./DISCLAIMER.md).
+See: [`docs/safety.md`](./docs/safety.md) and [`docs/DISCLAIMER.md`](./docs/DISCLAIMER.md).
 
 ---
 
