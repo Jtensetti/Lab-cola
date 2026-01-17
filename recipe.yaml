@@ -1,0 +1,34 @@
+units:
+  volume: mL
+  mass: g
+mixture_a:
+  flavor_oil_total_target_mL: 100.0
+  ingredients_mL:
+    lemon_oil: 45.8
+    lime_oil: 36.5
+    orange_oil: 1.2
+    tea_tree_oil: 8.0
+    cassia_cinnamon_oil: 4.5
+    nutmeg_oil: 2.7
+    coriander_oil: 0.7
+    fenchol: 0.6
+  age_days_optional: "1\u20132"
+mixture_a_7x_solution:
+  flavor_oil_mL: 20.0
+  ethanol_to_total_volume_mL: 1000.0
+mixture_b_total_volume_mL: 1000.0
+mixture_b_ingredients:
+  vinegar_5pct_mL: 10.0
+  caffeine_g: 9.65
+  glycerin_g: 175.0
+  phosphoric_acid_85pct_mL: 45.0
+  wine_tannins_g: 8.0
+  vanilla_extract_mL: 10.0
+  caramel_color_mL: 320.0
+final_assembly_per_1L:
+  sugar_g: 104.0
+  mixture_b_mL: 10.0
+  mixture_a_7x_solution_mL: 1.0
+  carbonated_water_to_total_volume_mL: 1000.0
+  heat_step: near-boil then cover
+  rest_optional_hours: "12\u201324"
