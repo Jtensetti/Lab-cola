@@ -33,7 +33,7 @@ See: [`recipe/one_liter_batch.md`](./recipe/one_liter_batch.md)
 
 This recipe uses **concentrated phosphoric acid** and **food/chemical flavor materials**. If you cannot confidently handle acids, measure accurately, and verify food-grade sourcing, **do not attempt this project**.
 
-See: [`docs/safety.md`](./docs/safety.md) and [`docs/DISCLAIMER.md`](./docs/DISCLAIMER.md).
+See: [`docs/safety.md`](./docs/safety.md) and [`DISCLAIMER.md`](./DISCLAIMER.md).
 
 ---
 
